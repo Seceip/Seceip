@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João Cavasssini
+# 💻 João Cavasssini
 
 **`Desenvolvedor FullStack`**
 

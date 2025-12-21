@@ -26,14 +26,14 @@ You can also check my NexusMods account where i post many of them. "[Seceip](htt
         <img 
             alt="Total de estrelas" 
             title="Total of stars in GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Seceip?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Seceip?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/Seceip?tab=followers">
         <img 
             alt="Seguidores" 
             title="Follow me on Github" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Seceip?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Seceip?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>

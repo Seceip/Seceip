@@ -2,7 +2,10 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Pedro Cavassini, tenho 24 anos e sou natural de São Paulo. Concluí o ensino médio em conjunto com o curso técnico em informática no SENAC. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC e Ciência da Computação na UNIP. Sou apaixonado por tecnologia e compartilho um pouco do que faço através do meu canal no YouTube "[Seceip](https://www.youtube.com/@seceip)", onde demonstro minhas criações de dublagens e traduções através da NexusMods, confira meu perfil: "[Seceip](https://www.nexusmods.com/profile/Seceip)".
+Hello, my name is Joao Pedro Cavassini, I am 24 years old and i live in São Paulo, Brazil. I graduated from high school doing a I.T course in SENAC. I am currently studying Software Development at the moment at FATEC and Computer Science at UNIP. I love technology and games, because of this i'm also a modder for many games out there, doing some translations and fan dubbing. 
+You can check that at my youtube channel right here: [Seceip](https://www.youtube.com/@seceip)", where i show many of My creations. 
+
+You can also check my NexusMods account where i post many of them. "[Seceip](https://www.nexusmods.com/profile/Seceip)".
 
 <p align="left">
     <a href="https://www.youtube.com/@seceip?sub_confirmation=1">
@@ -37,7 +40,7 @@ Me chamo João Pedro Cavassini, tenho 24 anos e sou natural de São Paulo. Concl
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
@@ -123,7 +126,7 @@ Me chamo João Pedro Cavassini, tenho 24 anos e sou natural de São Paulo. Concl
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <p>
   <img 

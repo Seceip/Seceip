@@ -134,7 +134,7 @@ You can also check my NexusMods account where i post many of them. "[Seceip](htt
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Seceip&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en-us" 
+    src="https://github-readme-stats.vercel.app/api?username=Seceip&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en-US" 
   />
 
 <img 

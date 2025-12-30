@@ -127,7 +127,6 @@ You can also check my NexusMods account where i post many of them. "[Seceip](htt
 <br/>
 
 ### 📊 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <p>
   <img 
     align="left" 

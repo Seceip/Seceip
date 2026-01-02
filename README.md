@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Hello, my name is Joao Pedro Cavassini, I am 24 years old and i live in São Paulo, Brazil. I graduated from high school doing a I.T course in SENAC. I am currently studying Software Development at the moment at FATEC and Computer Science at UNIP. I love technology and games, because of this i'm also a modder for many games out there, doing some translations and fan dubbing. 
-You can check that at my youtube channel right here: [Seceip](https://www.youtube.com/@seceip)", where i show many of My creations. 
+You can check that at my youtube channel right here: "[Seceip](https://www.youtube.com/@seceip)", where i show many of My creations. 
 
 You can also check my NexusMods account where i post many of them. "[Seceip](https://www.nexusmods.com/profile/Seceip)".
 
